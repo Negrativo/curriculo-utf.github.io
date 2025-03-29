@@ -98,13 +98,9 @@
     </style>
 </head>
 <body>
-    <div class="header">
-        sexta-feira, 28 mar. 2025, 20:30
-    </div>
-    
     <h1>Meu Currículo Profissional</h1>
     
-    <img src="foto-perfil.jpg" alt="Minha Foto de Perfil" class="profile-img">
+    <img src="./public/eu.jpg" alt="Minha Foto de Perfil" class="profile-img">
     
     <h2>Informações Pessoais</h2>
     <p>Nome: João Lucas Rodrigues de Souza</p>
@@ -115,7 +111,7 @@
     
     <h2>Formação Acadêmica</h2>
     <h3>Tecnólogo em Análise e Desenvolvimento de Sistemas</h3>
-    <p>Universidade Tecnológica Federal do Paraná - 2020 a 2025</p>
+    <p>Universidade Tecnológica Federal do Paraná - 2019 a 2025</p>
     
     <div class="highlight">
         <p>"Programador de sistemas web Angular e React, como também aplicações mobile com Java, Kotlin e React Native. 
@@ -127,7 +123,7 @@
     <h3 class="job-title">Desenvolvedor de sistemas Full-stack/Java <span class="company">- Grupo Muffato</span></h3>
     <p class="job-period">set de 2024 - o momento - 7 meses <span class="employment-type">· Tempo integral · Presencial</span></p>
     <p class="job-location">Londrina, Paraná, Brasil</p>
-    <p>Desenvolvimento e manutenção de servidor Java Spring. Manutenção em Banco de dados Oracle e MySQL. Como também sistemas web em React.</p>
+    <p>Desenvolvimento e manutenção de servidor Java Spring. Manutenção em Banco de dados Oracle e MySQL. Como também sistemas web em React e PHP.</p>
     
     <h3 class="job-title">Desenvolvedor full stack <span class="company">- Integra Tecnologia</span></h3>
     <p class="job-period">set de 2023 - set de 2024 - 1 ano 1 mês <span class="employment-type">· Tempo integral · Remota</span></p>
